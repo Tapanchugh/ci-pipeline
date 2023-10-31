@@ -7,8 +7,8 @@ TERRAFORM_DIR="${CURRENT_DIR}/../terraform"
 
 
 # Authentication
-echo "export TF_VAR_AWS_SECRET_KEY=BPbl/VFAWRTKfM7YV2B5p0uwDyAFnVXhU09ZcfNj"
-echo "export TF_VAR_AWS_ACCESS_KEY=AKIARBUWI3SOK3CO5VIJ"
+echo "export TF_VAR_AWS_SECRET_KEY="
+echo "export TF_VAR_AWS_ACCESS_KEY="
 
 
 # Resource Location
