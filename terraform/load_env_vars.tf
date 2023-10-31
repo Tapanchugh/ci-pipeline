@@ -10,3 +10,6 @@ variable "AWS_REGION" {}
 
 variable "AWS_REPOSITORY_NAME" {}
 variable "BUILDSPEC_PATH" {}
+variable "AWS_REPOSITORY_ApproverARN" {}
+variable "AWS_REPOSITORY_Numberofapprovals" {}
+variable "AWS_REPOSITORY_Branch_NAME" {}
